@@ -3,7 +3,7 @@
 
 **A material designed local music player for Android.**
 
-![Screenshots](./art/art.jpg?raw=true)
+![Screenshots](./art/screen.jpg?raw=true)
 
 <a href="https://play.google.com/store/apps/details?id=com.musicplayer.musicapps.mp3player.audioplayer">
   <img height="50" alt="Get it on Google Play"
